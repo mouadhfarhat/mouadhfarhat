@@ -96,20 +96,7 @@
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
----
 
-📊 GitHub Analytics
-<div align="center">
-📈 GitHub Statistics
-<p align="center">
-  <img height="180em" widht="50%" src="https://github-readme-stats.vercel.app/api?username=mouadhfarhat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" widht="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadhfarhat&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadhfarhat&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-</div>
 
 ---
 
