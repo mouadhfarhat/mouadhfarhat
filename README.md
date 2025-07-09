@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Former+National+Water+Polo+Champion;Problem+Solver;AWS+Cloud+Enthusiast;Team+Leader" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouadhfarhat)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmouadh50@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://mouadhfarhat.dev)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mouadhfarhat)
-  
-</div>
 
 ---
 
@@ -113,11 +105,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadhfarhat&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-### 🏆 **GitHub Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mouadhfarhat&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -125,7 +112,7 @@
 <div align="center">
   
 ### 🏢 **Enterprise CRM Platform**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mouadhfarhat&repo=crm-platform&theme=radical)](https://github.com/mouadhfarhat/crm-platform)
+[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=mouadhfarhat&repo=crm-platform&theme=radical)](https://github.com/mouadhfarhat/crm-platform](https://github.com/mouadhfarhat/CRM_EE))
 
 </div>
 
@@ -225,37 +212,6 @@
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  
-| 🏅 **Sports** | 💻 **Technology** | 📊 **Impact** |
-|:---:|:---:|:---:|
-| National Water Polo Champion | 15+ Technologies Mastered | 500+ Users Served |
-| Tunisian National Team Goalkeeper | 4+ Years Full Stack Experience | 10+ Projects Completed |
-| Team Captain & Leader | AWS Cloud Architecture Student | 35% Productivity Improvements |
-
-</div>
-
----
-
-## 🌟 What Makes Me Different
-
-```javascript
-const mouadh = {
-    code: ["Java", "TypeScript", "Python", "PHP"],
-    frameworks: ["Spring Boot", "Angular", "Laravel", "Vue.js"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
-    architecture: ["Microservices", "REST APIs", "MVC", "Clean Architecture"],
-    currentFocus: "AWS Cloud Architecture & Microservices",
-    sports: "Former National Water Polo Champion",
-    superpower: "Solving complex problems under pressure",
-    
-    getMotivation: function() {
-        return "Excellence is not a skill, it's an attitude 🌟";
-    }
-};
-```
 
 ---
 
@@ -276,15 +232,6 @@ const mouadh = {
 
 ---
 
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  
-**🌟 "I solve code bugs as efficiently as I block penalty shots!" 🌟**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouadhfarhat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmouadh50@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://mouadhfarhat.dev)
 
 ### 💡 **Always open to:**
 - Exciting full-stack development opportunities
