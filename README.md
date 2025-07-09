@@ -98,31 +98,17 @@
 
 ---
 
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-
-### 📈 **GitHub Statistics**
+📈 GitHub Statistics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadhfarhat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadhfarhat&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
-### 💻 **Most Used Languages**
+💻 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadhfarhat&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-
-### 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mouadhfarhat&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-### 📊 **Weekly Development Breakdown**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouadhfarhat&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
 </div>
 
 ---
