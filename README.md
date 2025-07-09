@@ -87,31 +87,6 @@ Social platform with 1,000+ active users for academic collaboration.
 - **Full Stack Developer** @ National Computer Center (2024) - 35% productivity improvement
 - **DevOps Administrator** @ itSERV (2023) - 60% reduction in system downtime
 
-## 🏅 Achievements
-
-**Athletic Excellence:**
-- National Water Polo Champion (2017-2023)
-- Goalkeeper for Tunisian National Team
-- African Championship participation
-
-**Technical Excellence:**
-- 5+ production applications with zero security vulnerabilities
-- 95%+ code coverage in testing suites
-- Mentored junior developers in best practices
-
-## 🎯 What Makes Me Different
-
-> **From championship pools to production code** - My background as a national-level athlete has taught me discipline, strategic thinking, and how to perform under pressure. These skills directly translate to delivering high-quality software solutions in fast-paced environments.
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouadh-farhat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmouadh50@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mouadhfarhat.dev)
-
-</div>
 
 ---
 
