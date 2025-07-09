@@ -102,8 +102,8 @@
 <div align="center">
 📈 GitHub Statistics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadhfarhat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadhfarhat&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" widht="50%" src="https://github-readme-stats.vercel.app/api?username=mouadhfarhat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" widht="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadhfarhat&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 💻 Most Used Languages
 <p align="center">
