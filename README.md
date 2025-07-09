@@ -5,7 +5,6 @@
 </div>
 
 
----
 
 ## 🚀 About Me
 
@@ -33,22 +32,27 @@
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
 <br><strong>Java</strong>
 <br><em>4+ years</em>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60" alt="Spring"/>
 <br><strong>Spring Boot</strong>
 <br><em>4+ years</em>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="60" height="60" alt="Angular"/>
 <br><strong>Angular</strong>
 <br><em>3+ years</em>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
+<br><strong>PostgreSQL</strong>
+<br><em>3+ years</em>
+</td>
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
 <br><strong>Docker</strong>
 <br><em>3+ years</em>
@@ -66,7 +70,7 @@
 
 ### 🎨 **Frontend Development**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -97,16 +101,31 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadhfarhat&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadhfarhat&theme=radical" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadhfarhat&layout=compact&theme=radical" alt="Top Languages" />
+### 📈 **GitHub Statistics**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadhfarhat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadhfarhat&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 💻 **Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadhfarhat&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+### 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mouadhfarhat&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+### 📊 **Weekly Development Breakdown**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouadhfarhat&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
 </div>
 
 ---
-
 
 ## 💼 Professional Experience
 
@@ -155,9 +174,6 @@
 
 ---
 
-
----
-
 ## 📈 Current Goals & Learning Path
 
 <div align="center">
@@ -175,15 +191,12 @@
 
 ---
 
-
 ### 💡 **Always open to:**
 - Exciting full-stack development opportunities
 - Collaborative projects and open-source contributions
 - Technical discussions about architecture and best practices
 - Mentoring junior developers
 - Water polo coaching and sports leadership
-
-</div>
 
 ---
 
@@ -196,10 +209,4 @@
   
   **⭐ If you find my work interesting, please consider starring my repositories! ⭐**
   
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/mouadhfarhat/mouadhfarhat/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
